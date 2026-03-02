@@ -1,0 +1,17 @@
+# Monorepo dependencies
+**/node_modules/
+
+# Env files
+**/.env
+**/.env.local
+
+# Hardhat outputs
+hardhat/cache/
+hardhat/typechain-types/
+hardhat/artifacts/
+
+# Next.js outputs
+web/.next/
+
+# OS
+Thumbs.db
